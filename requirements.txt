@@ -1,0 +1,3 @@
+# Assignment A runtime and test dependencies.
+pytest>=8.0
+cryptography>=42.0
